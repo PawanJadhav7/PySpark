@@ -1,3 +1,3 @@
 This is the first PySpark Project. 
-Established the connectionwith Spark Server.
+Established the connection with Spark Server.
 Creating the DataFrames with Pandas.
